@@ -1,9 +1,4 @@
-# FIT5202 - Data Processing for Big Data 2024 S2  
 ## Assignment 2A: Building Models for eCommerce Fraud Detection  
-
-
-### Worth:  
-15% of the final marks  
 
 ---
 
